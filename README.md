@@ -4,7 +4,7 @@
 
 ### Hypo-testing-UW-madison - Team David Kaspar & Hussein Sajid
 
-[Final Jupyter Notebook](Link Needed)
+[Final Jupyter Notebook](uw_mad_grades.ipynb)
 
 [Slides](https://docs.google.com/presentation/d/1C4CV7enURSi7Ly9QkoGdXZ9F8CA36--hx4BYSOw9V2I/edit?usp=sharing)
 
@@ -13,6 +13,7 @@
 The goal of this project is to test our ability to gather information from a real-world database and use our knowledge of statistical analysis and hypothesis testing to generate analytical insights that can be meaningful to the company/stakeholder.
 
 **Statistical Analysis Requirements**
+
 The goal of our project is to query the database to get the data needed to perform a statistical analysis. In this statistical analysis, we will need to perform a hypothesis test to answer at least one of the questions from the database you choose. 
 
 For each hypothesis, be sure to specify both the null hypothesis and the alternative hypothesis for our question. We should also specify if this is one-tail or a two-tail test.
