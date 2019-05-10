@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+data/
+database.sqlite3
+grades.sql
+kaspar_eda-Copy1.ipynb
+uw_mad_grades_bootstrapping-Copy1.ipynb
+uw-madison-courses.zip
+uw-madison-courses/database.sqlite3
