@@ -47,9 +47,9 @@ Here is the final output from this notebook:
 | 'James Matenaer'         | 0.0312       | 0.2362             |
 
 
-Joseph Strand is expected to give a ratio of A's between 31.7592 and 72.5886%. An instructor was not fair, and gave 80.00% A's, vs other instructors: 23.46%. This instructor was giving the most A's to their students in the respective course.
+Joseph Strand is expected to give a ratio of A's between 64.3203 and 95.6797%. An instructor was not fair, and gave 80.00% A's, vs other instructors: 23.46%. This instructor was giving the most A's to their students in the respective course.
 
-Christopher Butler is expected to give a ratio of A's between 20.7964 and 59.2036%.
+Christopher Butler is expected to give a ratio of A's between 0.0 and 9.6217%.
 Christopher Butler was not fair, and gave 4.0% A's, vs other instructors: 23.59%. This instructor was giving the lowest A's to their students in the respective course.
 
 
