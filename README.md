@@ -29,6 +29,12 @@ There are more than 9,000 courses in this dataset. There are nearly 200,000 cour
 ## Dataset: UW-Madison Wisconsin grades
 Found [here (link to kaggle.com)](https://www.kaggle.com/Madgrades/uw-madison-courses)
 
-We analyzed the overall average GPA from all classes that reported A-F style, completely omitting any (pass / fail) or other student achievement reporting methods. After transforming the possible grades: [A, AB, B, BC, C, D, F] onto the 4.0 GPA scale, we computed the weighted average based on class size for the entire dataset. We then randomly sampled 2000 records and computed a confidence interval for the population mean GPA utilizing bootstrapping for an empirical result.
+Joseph Strand is expected to give a ratio of A's between 31.7592 and 72.5886%. An instructor was not fair, and gave 80.00% A's, vs other instructors: 23.46%. This instructor was giving the most A's to their students in the respective course.
+
+Christopher Butler is expected to give a ratio of A's between 20.7964 and 59.2036%.
+Christopher Butler was not fair, and gave 4.0% A's, vs other instructors: 23.59%. This instructor was giving the lowest A's to their students in the respective course.
+
+
+In a different notebook, we analyzed the overall average GPA from all classes that reported A-F style, completely omitting any (pass / fail) or other student achievement reporting methods. After transforming the possible grades: [A, AB, B, BC, C, D, F] onto the 4.0 GPA scale, we computed the weighted average based on class size for the entire dataset. We then randomly sampled 2000 records and computed a confidence interval for the population mean GPA utilizing bootstrapping for an empirical result.
 
 [Bootstrapping Sample Test](uw_mad_grades_bootstrapping.ipynb)
