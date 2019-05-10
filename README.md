@@ -1,8 +1,9 @@
-# University of Wisconsin - Madison: Courses & Grades Analysis
+# University of Wisconsin - Madison: 
+# Courses & Grades Analysis
 ----------------
 ### 2019.05.10
 
-### Hypo-testing-UW-madison - Team David Kaspar & Hussein Sajid
+### Team David Kaspar & Hussein Sajid
 
 [Final Jupyter Notebook](uw_mad_grades.ipynb)
 
