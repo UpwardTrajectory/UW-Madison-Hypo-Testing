@@ -1,4 +1,4 @@
-# Module 2 Final Project
+# University of Wisconsin - Madison: Courses & Grades Analysis
 ----------------
 ### 2019.05.10
 
