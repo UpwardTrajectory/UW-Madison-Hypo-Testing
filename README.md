@@ -29,6 +29,24 @@ There are more than 9,000 courses in this dataset. There are nearly 200,000 cour
 ## Dataset: UW-Madison Wisconsin grades
 Found [here (link to kaggle.com)](https://www.kaggle.com/Madgrades/uw-madison-courses)
 
+Here is the final output from this notebook:
+
+| Easiest Professors       | Ratio of A's | Other profs' Ratio |
+|--------------------------|--------------|--------------------|
+| 'Joseph Strand'          | 0.8          | 0.234              |
+| 'Lindsay Hogan Garrison' | 0.7551       | 0.2331             |
+| 'Leland Pan'             | 0.7345       | 0.2305             |
+| 'Douglas Adams'          | 0.6923       | 0.2342             |
+| 'Dominique Salas'        | 0.6667       | 0.2343             |
+| ----------------------   | -----------  | ------------------ |
+| **Hardest professors**     | **Ratio of A's** | **Other profs' Ratio** |
+| 'Christopher Butler'     | 0.0408       | 0.2359             |
+| 'Joelle Tybon'           | 0.04         | 0.2355             |
+| 'Monica Styles'          | 0.04         | 0.2355             |
+| 'Victoria Lantz'         | 0.0385       | 0.2355             |
+| 'James Matenaer'         | 0.0312       | 0.2362             |
+
+
 Joseph Strand is expected to give a ratio of A's between 31.7592 and 72.5886%. An instructor was not fair, and gave 80.00% A's, vs other instructors: 23.46%. This instructor was giving the most A's to their students in the respective course.
 
 Christopher Butler is expected to give a ratio of A's between 20.7964 and 59.2036%.
